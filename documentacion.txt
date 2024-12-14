@@ -1,0 +1,8 @@
+Proyecto: Software de Citas Veterinarias
+
+Este sistema permite a los usuarios registrar sus mascotas y agendar citas con veterinarios. Los módulos del sistema incluyen:
+- Usuarios: Gestión de propietarios de mascotas.
+- Mascotas: Gestión de las mascotas de los usuarios.
+- Citas: Gestión de las citas para los animales con los veterinarios.
+
+El sistema está desarrollado en Python.
